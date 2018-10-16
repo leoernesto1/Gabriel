@@ -17,6 +17,9 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+	
+	@import url(https://fonts.googleapis.com/css?family=Montserrat:400,400italic,700,700italic);
+
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -24,6 +27,7 @@
 
 	body {
 		line-height: 1;
+		font-family:Montserrat;background:-webkit-linear-gradient(bottom,#affad8,#a7e4fb)
 	}
 
 	ol, ul {
